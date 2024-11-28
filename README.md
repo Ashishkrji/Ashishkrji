@@ -19,32 +19,40 @@ Welcome to my GitHub! I'm a passionate **Web Developer, WordPress Specialist**, 
 
 # 🛠️ Technologies & Tools I Use
 
-# Programming Languages:
-JavaScript, Python, SQL, HTML5, CSS3
+**Programming Languages:**
+HTML5, CSS3, JavaScript, Python, React.js, Node.js, Bootstrap
 
-# Frontend Development:
-HTML5, CSS3, React.js, Bootstrap, jQuery, WordPress
+**Frontend Development:**
+HTML5, CSS3, React.js, Bootstrap, WordPress
 
-# Backend Development:
+**Backend Development:**
 Node.js, Express.js
 
-# Database Systems:
-MongoDB, MySQL
-
-# Tools & Platforms:
-Git, GitHub, Figma, Postman, NPM, Webpack
+**Tools & Platforms:**
+Git, GitHub, Figma, NPM
 
 # 🔥 Featured Projects
 Here are a few projects that highlight my skills:
 
-# Food Website
-A responsive and visually appealing food-themed website showcasing recipes and food items. 🍕🍔
+# My Some Projects
 
-# VCard Portfolio
-A sleek and modern digital business card built to showcase individual profiles. 📇✨
+**Vcard_Portfolio**
+💼 A sleek and professional virtual business card showcasing your portfolio, skills, and achievements in a compact format.
 
-# My Portfolio Website
-A personal portfolio site that highlights my skills, projects, and achievements. 🌐💻
+**Food-Website**
+🍔 A responsive and visually appealing website featuring recipes and food-themed elements, designed for food enthusiasts.
+
+**Passport_Size_Image_Gallery**
+🖼️ A creative gallery tool designed to manage and display passport-sized images efficiently, showcasing clean and minimalist design.
+
+**My_Sort_Profile**
+📃 A concise and personal profile webpage summarizing your professional details, ideal for quick references and introductions.
+
+**How-To-Create-Food-Website**
+📖 A step-by-step guide project showcasing the process of building a functional and engaging food-themed website from scratch.
+
+**Ashish_Portfolio**
+🌐 Your complete portfolio website highlighting your skills as a website developer, WordPress expert, and digital marketer, including detailed project showcases.
 
 # 📈 GitHub Stats
 
