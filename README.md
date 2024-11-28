@@ -58,9 +58,11 @@ Here are a few projects that highlight my skills:
 
 ![image](https://github.com/user-attachments/assets/45f40d93-ba31-478d-a23e-abb5cff737aa)
 
-Top Languages:
 
 # 📢 Connect with Me
-LinkedIn: linkedin.com/in/ashishkumar
-Instagram: https://www.instagram.com/fluxon_webdev/
-Email: ashishkrji0@gmail.com
+
+**LinkedIn:** linkedin.com/in/ashishkumar
+
+**Instagram:** https://www.instagram.com/fluxon_webdev/
+
+**Email:** ashishkrji0@gmail.com
