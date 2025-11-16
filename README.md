@@ -63,6 +63,6 @@ Here are a few projects that highlight my skills:
 
 **LinkedIn:** [linkedin.com/in/ashishkumar](https://www.linkedin.com/in/ashishkumarji/)
 
-**Instagram:** [https://www.instagram.com/fluxon_webdev/](https://www.instagram.com/fluxon_webdev/)
+**Instagram:** [https://www.instagram.com/fluxon_webdev/](https://www.instagram.com/ashishkrweb4/)
 
 **Email:** ashishkrji0@gmail.com
